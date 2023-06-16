@@ -1,5 +1,5 @@
-# ca-netfree
-Magisk module that Adds Netfree CA certificates as system
+# Android-CA-fliters
+Magisk module that Adds internet filters CA certificates as system
 Certificates.
 
 ## prerequisites:
