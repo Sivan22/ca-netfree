@@ -1,7 +1,7 @@
-id=netfree-ca-all
-name=netfree-cert-add
-version=v3
-versionCode=3
-author=sivan22
-description=adds the rootCA for netfree (all providers). By N.G.
+id=filters-ca-all
+name=Android-CA-filters
+version=v1
+versionCode=1
+author=A.I.V
+description=adds the rootCA for filters (Netfree, Netspark, Rimon, Etrog). By N.G.
 minMagisk=20000
