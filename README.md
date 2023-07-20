@@ -1,5 +1,5 @@
 # Android-CA-fliters
-Magisk module that Adds internet filters (Such as NetFree, NetSpark, Rimon, Hadran) CA certificates as system
+Magisk module that Adds internet filters (Such as NetFree, NetSpark, Rimon, Hadran etc.) CA certificates as system
 Certificates.
 
 ## prerequisites:
