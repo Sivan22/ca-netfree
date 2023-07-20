@@ -1,7 +1,7 @@
-id=filters-ca-all
-name=Android-CA-filters
-version=v1
-versionCode=1
-author=A.I.V
-description=adds the rootCA for filters (Netfree, Netspark, Rimon, Etrog). By N.G.
+id=filtered-isp-ca-all
+name=Android-CAs-Filtered-ISPs
+version=v5
+versionCode=5.0
+author=Sivan22
+description=adds the rootCA for filters (Netfree, Netspark, Rimon, Etrog). By Sivan22
 minMagisk=20000
