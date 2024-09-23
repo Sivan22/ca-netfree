@@ -1,0 +1,50 @@
+-----BEGIN CERTIFICATE-----
+MIICVDCCAdqgAwIBAgIFGZAiAAMwCgYIKoZIzj0EAwMweDELMAkGA1UEBhMCSUwx
+FTATBgNVBAgTDE1vZGknaW4gSWxpdDEQMA4GA1UEChMHTmV0RnJlZTEVMBMGA1UE
+CxMMbmV0ZnJlZS5saW5rMSkwJwYDVQQDEyBOZXRGcmVlIFJvb3QgQ0EgMTk5MC0y
+MjAwIEVDQzM4NDAgFw05MDAxMDEwMDAwMDBaGA8yMjAwMDEwMTAwMDAwMFoweDEL
+MAkGA1UEBhMCSUwxFTATBgNVBAgTDE1vZGknaW4gSWxpdDEQMA4GA1UEChMHTmV0
+RnJlZTEVMBMGA1UECxMMbmV0ZnJlZS5saW5rMSkwJwYDVQQDEyBOZXRGcmVlIFJv
+b3QgQ0EgMTk5MC0yMjAwIEVDQzM4NDB2MBAGByqGSM49AgEGBSuBBAAiA2IABFM5
+q55uB7nbAxn+1L+Ha7RhtT3d8ZKZmqxrjeHnWyUWYiU6NA15E89xbuIQN0jNTgPm
+7R/U+vNz+kWQAovG3VkbebdhAoPrlspTFCJOQNEihLGUp/dRIkLhygEG+y0rUKMy
+MDAwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUE1eRGvihK08KxwK6owVid7v9
+x6UwCgYIKoZIzj0EAwMDaAAwZQIxAJX+aoHX9UxtWIu7D8UKB7qi0DYHOVgotvA+
+Ctmo0p1ABD51/37KkATZ5QUWtoDEjgIwVDpR2JJQajvB7f+z9jFr/XJboCqbuOCh
+1FwyoeJs9uOS6EpYINVwZS6ckdyO3tJ5
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 109792329731 (0x1990220003)
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA 1990-2200 ECC384
+        Validity
+            Not Before: Jan  1 00:00:00 1990 GMT
+            Not After : Jan  1 00:00:00 2200 GMT
+        Subject: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA 1990-2200 ECC384
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub:
+                    04:53:39:ab:9e:6e:07:b9:db:03:19:fe:d4:bf:87:
+                    6b:b4:61:b5:3d:dd:f1:92:99:9a:ac:6b:8d:e1:e7:
+                    5b:25:16:62:25:3a:34:0d:79:13:cf:71:6e:e2:10:
+                    37:48:cd:4e:03:e6:ed:1f:d4:fa:f3:73:fa:45:90:
+                    02:8b:c6:dd:59:1b:79:b7:61:02:83:eb:96:ca:53:
+                    14:22:4e:40:d1:22:84:b1:94:a7:f7:51:22:42:e1:
+                    ca:01:06:fb:2d:2b:50
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                13:57:91:1A:F8:A1:2B:4F:0A:C7:02:BA:A3:05:62:77:BB:FD:C7:A5
+    Signature Algorithm: ecdsa-with-SHA384
+         30:65:02:31:00:95:fe:6a:81:d7:f5:4c:6d:58:8b:bb:0f:c5:
+         0a:07:ba:a2:d0:36:07:39:58:28:b6:f0:3e:0a:d9:a8:d2:9d:
+         40:04:3e:75:ff:7e:ca:90:04:d9:e5:05:16:b6:80:c4:8e:02:
+         30:54:3a:51:d8:92:50:6a:3b:c1:ed:ff:b3:f6:31:6b:fd:72:
+         5b:a0:2a:9b:b8:e0:a1:d4:5c:32:a1:e2:6c:f6:e3:92:e8:4a:
+         58:20:d5:70:65:2e:9c:91:dc:8e:de:d2:79

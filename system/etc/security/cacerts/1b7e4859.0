@@ -1,0 +1,39 @@
+-----BEGIN CERTIFICATE-----
+MIIB2TCCAYugAwIBAgIFGZAiAAQwBQYDK2VwMHkxCzAJBgNVBAYTAklMMRUwEwYD
+VQQIEwxNb2RpJ2luIElsaXQxEDAOBgNVBAoTB05ldEZyZWUxFTATBgNVBAsTDG5l
+dGZyZWUubGluazEqMCgGA1UEAxMhTmV0RnJlZSBSb290IENBIDE5OTAtMjIwMCBF
+RDI1NTE5MCAXDTkwMDEwMTAwMDAwMFoYDzIyMDAwMTAxMDAwMDAwWjB5MQswCQYD
+VQQGEwJJTDEVMBMGA1UECBMMTW9kaSdpbiBJbGl0MRAwDgYDVQQKEwdOZXRGcmVl
+MRUwEwYDVQQLEwxuZXRmcmVlLmxpbmsxKjAoBgNVBAMTIU5ldEZyZWUgUm9vdCBD
+QSAxOTkwLTIyMDAgRUQyNTUxOTAqMAUGAytlcAMhAOKoGaqolRcXGSA3e9AOeVEg
+XR1u/M8kF0pAER08SsJsozIwMDAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBRx
+/pWjrNJFdvTPj1TyWLUfKSanMDAFBgMrZXADQQA6KlOZ5NLUfyUDn47fTyCDlnd4
+vBDqwgEm8Dy+GQ4EuTSqOL0+71Q4XzytQ1uKJmwVvGZtTzIjHsk5WaRgypYG
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 109792329732 (0x1990220004)
+        Signature Algorithm: ED25519
+        Issuer: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA 1990-2200 ED25519
+        Validity
+            Not Before: Jan  1 00:00:00 1990 GMT
+            Not After : Jan  1 00:00:00 2200 GMT
+        Subject: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA 1990-2200 ED25519
+        Subject Public Key Info:
+            Public Key Algorithm: ED25519
+                ED25519 Public-Key:
+                pub:
+                    e2:a8:19:aa:a8:95:17:17:19:20:37:7b:d0:0e:79:
+                    51:20:5d:1d:6e:fc:cf:24:17:4a:40:11:1d:3c:4a:
+                    c2:6c
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                71:FE:95:A3:AC:D2:45:76:F4:CF:8F:54:F2:58:B5:1F:29:26:A7:30
+    Signature Algorithm: ED25519
+         3a:2a:53:99:e4:d2:d4:7f:25:03:9f:8e:df:4f:20:83:96:77:
+         78:bc:10:ea:c2:01:26:f0:3c:be:19:0e:04:b9:34:aa:38:bd:
+         3e:ef:54:38:5f:3c:ad:43:5b:8a:26:6c:15:bc:66:6d:4f:32:
+         23:1e:c9:39:59:a4:60:ca:96:06
