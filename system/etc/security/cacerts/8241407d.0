@@ -1,0 +1,51 @@
+-----BEGIN CERTIFICATE-----
+MIICTjCCAfSgAwIBAgIFGZAiAAIwCgYIKoZIzj0EAwIwezELMAkGA1UEBhMCSUwx
+FTATBgNVBAgTDE1vZGknaW4gSWxpdDEQMA4GA1UEChMHTmV0RnJlZTEVMBMGA1UE
+CxMMbmV0ZnJlZS5saW5rMSwwKgYDVQQDEyNOZXRGcmVlIFJvb3QgQ0EgWDIgMTk5
+MC0yMjAwIEVDQzI1NjAgFw05MDAxMDEwMDAwMDBaGA8yMjAwMDEwMTAwMDAwMFow
+ezELMAkGA1UEBhMCSUwxFTATBgNVBAgTDE1vZGknaW4gSWxpdDEQMA4GA1UEChMH
+TmV0RnJlZTEVMBMGA1UECxMMbmV0ZnJlZS5saW5rMSwwKgYDVQQDEyNOZXRGcmVl
+IFJvb3QgQ0EgWDIgMTk5MC0yMjAwIEVDQzI1NjBZMBMGByqGSM49AgEGCCqGSM49
+AwEHA0IABAD6GbzCuvv+SGk+jzNI7U/2mw4FLio7qNkOECfsGFqES0WnytFxG4/I
+aU9ET05MPbIdOMn+CChHLeuNc4Lr3oOjYzBhMA4GA1UdDwEB/wQEAwIBhjAPBgNV
+HRMBAf8EBTADAQH/MB0GA1UdDgQWBBQQgjuzfmsv4XdijhxEFb9Wecwg1zAfBgNV
+HSMEGDAWgBQQgjuzfmsv4XdijhxEFb9Wecwg1zAKBggqhkjOPQQDAgNIADBFAiEA
+9HKczNql8UZmDbwV94EI4Inx92m5/VKxZCPoKkXD8TwCIAl8bZsKznLVfCwC6QSq
+I1QsZCrq6lB31QJK+8P+ccEV
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 109792329730 (0x1990220002)
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA X2 1990-2200 ECC256
+        Validity
+            Not Before: Jan  1 00:00:00 1990 GMT
+            Not After : Jan  1 00:00:00 2200 GMT
+        Subject: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA X2 1990-2200 ECC256
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub:
+                    04:00:fa:19:bc:c2:ba:fb:fe:48:69:3e:8f:33:48:
+                    ed:4f:f6:9b:0e:05:2e:2a:3b:a8:d9:0e:10:27:ec:
+                    18:5a:84:4b:45:a7:ca:d1:71:1b:8f:c8:69:4f:44:
+                    4f:4e:4c:3d:b2:1d:38:c9:fe:08:28:47:2d:eb:8d:
+                    73:82:eb:de:83
+                ASN1 OID: prime256v1
+                NIST CURVE: P-256
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                10:82:3B:B3:7E:6B:2F:E1:77:62:8E:1C:44:15:BF:56:79:CC:20:D7
+            X509v3 Authority Key Identifier: 
+                keyid:10:82:3B:B3:7E:6B:2F:E1:77:62:8E:1C:44:15:BF:56:79:CC:20:D7
+
+    Signature Algorithm: ecdsa-with-SHA256
+         30:45:02:21:00:f4:72:9c:cc:da:a5:f1:46:66:0d:bc:15:f7:
+         81:08:e0:89:f1:f7:69:b9:fd:52:b1:64:23:e8:2a:45:c3:f1:
+         3c:02:20:09:7c:6d:9b:0a:ce:72:d5:7c:2c:02:e9:04:aa:23:
+         54:2c:64:2a:ea:ea:50:77:d5:02:4a:fb:c3:fe:71:c1:15

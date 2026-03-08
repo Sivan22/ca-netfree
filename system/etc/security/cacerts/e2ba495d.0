@@ -1,0 +1,46 @@
+-----BEGIN CERTIFICATE-----
+MIICEDCCAcKgAwIBAgIFGZAiAAQwBQYDK2VwMHwxCzAJBgNVBAYTAklMMRUwEwYD
+VQQIEwxNb2RpJ2luIElsaXQxEDAOBgNVBAoTB05ldEZyZWUxFTATBgNVBAsTDG5l
+dGZyZWUubGluazEtMCsGA1UEAxMkTmV0RnJlZSBSb290IENBIFgyIDE5OTAtMjIw
+MCBFRDI1NTE5MCAXDTkwMDEwMTAwMDAwMFoYDzIyMDAwMTAxMDAwMDAwWjB8MQsw
+CQYDVQQGEwJJTDEVMBMGA1UECBMMTW9kaSdpbiBJbGl0MRAwDgYDVQQKEwdOZXRG
+cmVlMRUwEwYDVQQLEwxuZXRmcmVlLmxpbmsxLTArBgNVBAMTJE5ldEZyZWUgUm9v
+dCBDQSBYMiAxOTkwLTIyMDAgRUQyNTUxOTAqMAUGAytlcAMhANrlIEA0rF4YYJ79
+Ka6Qzzum+f+T6l0HIeyKBjmqwjzPo2MwYTAOBgNVHQ8BAf8EBAMCAYYwDwYDVR0T
+AQH/BAUwAwEB/zAdBgNVHQ4EFgQUtnIPtDMPznmYCOLvTd/Futna8yYwHwYDVR0j
+BBgwFoAUtnIPtDMPznmYCOLvTd/Futna8yYwBQYDK2VwA0EAVVS0yN0aS6Btmcxr
+AOgFIbiNmVFHd9r5SHjVOYBGXP8WtNFrePjFGEKB9RX/LIsxXqtlV1tJXDI4y4pG
+iXe/AQ==
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 109792329732 (0x1990220004)
+        Signature Algorithm: ED25519
+        Issuer: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA X2 1990-2200 ED25519
+        Validity
+            Not Before: Jan  1 00:00:00 1990 GMT
+            Not After : Jan  1 00:00:00 2200 GMT
+        Subject: C = IL, ST = Modi'in Ilit, O = NetFree, OU = netfree.link, CN = NetFree Root CA X2 1990-2200 ED25519
+        Subject Public Key Info:
+            Public Key Algorithm: ED25519
+                ED25519 Public-Key:
+                pub:
+                    da:e5:20:40:34:ac:5e:18:60:9e:fd:29:ae:90:cf:
+                    3b:a6:f9:ff:93:ea:5d:07:21:ec:8a:06:39:aa:c2:
+                    3c:cf
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Subject Key Identifier: 
+                B6:72:0F:B4:33:0F:CE:79:98:08:E2:EF:4D:DF:C5:BA:D9:DA:F3:26
+            X509v3 Authority Key Identifier: 
+                keyid:B6:72:0F:B4:33:0F:CE:79:98:08:E2:EF:4D:DF:C5:BA:D9:DA:F3:26
+
+    Signature Algorithm: ED25519
+         55:54:b4:c8:dd:1a:4b:a0:6d:99:cc:6b:00:e8:05:21:b8:8d:
+         99:51:47:77:da:f9:48:78:d5:39:80:46:5c:ff:16:b4:d1:6b:
+         78:f8:c5:18:42:81:f5:15:ff:2c:8b:31:5e:ab:65:57:5b:49:
+         5c:32:38:cb:8a:46:89:77:bf:01
