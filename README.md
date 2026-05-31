@@ -4,6 +4,7 @@ Certificates.
 
 ## prerequisites:
 * Rooted android with Magisk 20.0 and above.
+* Android < 14.0. for android 14/15 use [this](https://github.com/Sivan22/ca-netfree-android14) instead.
 
 ## installation:
 * Download the zip file from [Here](https://github.com/Sivan22/ca-netfree/releases).
